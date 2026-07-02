@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1782960503436,138,HTTP GET /movies,200,OK,Thread Group 1-1,text,true,,55747,123,1,1,http://localhost:3000/movies,130,0,30
+1782960503578,10,HTTP GET /movies,200,OK,Thread Group 1-1,text,true,,55747,123,1,1,http://localhost:3000/movies,10,0,0
+1782960503589,10,HTTP GET /movies,200,OK,Thread Group 1-1,text,true,,55747,123,1,1,http://localhost:3000/movies,10,0,0
+1782960503599,9,HTTP GET /movies,200,OK,Thread Group 1-1,text,true,,55747,123,1,1,http://localhost:3000/movies,9,0,0
+1782960503609,8,HTTP GET /movies,200,OK,Thread Group 1-1,text,true,,55747,123,1,1,http://localhost:3000/movies,7,0,0
